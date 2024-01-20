@@ -18,7 +18,7 @@ By comparing the lists of "Best Books Ever" and the New York Times' "100 Notable
 4. **Cross-Genre Analysis:** Explore the presence of cross-genre books to identify trends toward interdisciplinary literary creations.
 
 ## Data Collection
-Data is primarily sourced from the Goodreads website, specifically the "Best Books Ever" list and the New York Times' "100 Notable Books of 2023" on Goodreads. The top 20 books from each list were selected, including titles, descriptions, authors, average ratings, and the first five genre labels.
+Data is primarily sourced from the Goodreads website, specifically the "Best Books Ever" list and the New York Times' "100 Notable Books of 2023" on Goodreads. The top 20 books from each list were selected, collecting titles, descriptions, authors, average ratings, and the first five genre labels for those books.
 
 ## Collection Process
 Web scraping was employed using Python, spaCy, and BeautifulSoup libraries to parse web pages and extract relevant information. The collected data was saved in text format within a data directory and a single CSV file for comprehensive access.
