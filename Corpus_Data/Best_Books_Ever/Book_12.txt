@@ -1,0 +1,8 @@
+Title: Gone with the Wind
+Author: Margaret Mitchell
+Avg Rating: 4.31 avg rating — 1,200,295 ratings
+Genres: Classics, Historical Fiction, Fiction, Romance, Historical
+Description: Scarlett O'Hara, the beautiful, spoiled daughter of a well-to-do Georgia plantation owner, must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea.
+Tokens: ['Gone', 'with', 'the', 'Wind', '.', 'Scarlett', "O'Hara", ',', 'the', 'beautiful', ',', 'spoiled', 'daughter', 'of', 'a', 'well', '-', 'to', '-', 'do', 'Georgia', 'plantation', 'owner', ',', 'must', 'use', 'every', 'means', 'at', 'her', 'disposal', 'to', 'claw', 'her', 'way', 'out', 'of', 'the', 'poverty', 'she', 'finds', 'herself', 'in', 'after', 'Sherman', "'s", 'March', 'to', 'the', 'Sea', '.']
+Lemmas: ['go', 'with', 'the', 'wind', '.', 'Scarlett', "O'Hara", ',', 'the', 'beautiful', ',', 'spoiled', 'daughter', 'of', 'a', 'well', '-', 'to', '-', 'do', 'Georgia', 'plantation', 'owner', ',', 'must', 'use', 'every', 'mean', 'at', 'her', 'disposal', 'to', 'claw', 'her', 'way', 'out', 'of', 'the', 'poverty', 'she', 'find', 'herself', 'in', 'after', 'Sherman', "'s", 'March', 'to', 'the', 'Sea', '.']
+Parts of Speech: ['VERB', 'ADP', 'DET', 'NOUN', 'PUNCT', 'PROPN', 'PROPN', 'PUNCT', 'DET', 'ADJ', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADV', 'PUNCT', 'PART', 'PUNCT', 'AUX', 'PROPN', 'NOUN', 'NOUN', 'PUNCT', 'AUX', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'PART', 'VERB', 'PRON', 'NOUN', 'ADP', 'ADP', 'DET', 'NOUN', 'PRON', 'VERB', 'PRON', 'ADP', 'ADP', 'PROPN', 'PART', 'PROPN', 'ADP', 'DET', 'PROPN', 'PUNCT']
